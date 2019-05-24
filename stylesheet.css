@@ -1,0 +1,56 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  }
+
+body {
+  background-color: antiquewhite;
+ 
+}
+
+#title {
+   text-align: center;
+}
+
+#snapshot {
+  text-align: center;
+  font-weight: bold;
+}
+
+#name {
+    font-weight: bold;
+    font-size: 140%;
+}
+
+
+li {
+margin-left: auto;
+margin-right: auto;
+max-width: 800px;
+}
+
+#img-div {
+  background-color: whitesmoke;
+
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+   
+ #img-caption {
+      background-color: whitesmoke;
+      font-size: 80%;
+      text-align: center;
+      
+    }
+
+#footer {
+    font-weight: bold;
+    text-align: center;
+    
+}
